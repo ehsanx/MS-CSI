@@ -1,0 +1,28 @@
+## Project Description {-}
+
+People with MS can have other co-existing health conditions called comorbidities, such as high blood pressure. These comorbidities can affect health outcomes in people with MS. Currently there is no summary measure of comorbidities in MS. Researchers in other fields have tried to combine information about different comorbid conditions into a single summary number. Examples include the Charlson Comorbidity Index (CCI). CCI has been used in studies of MS, but it was not created for people with MS and has not been tested for use in people with MS.
+
+Dr. Ehsan Karim and team aim to develop and test a comorbidity summary measure that is specific for people with MS. The researchers will:
+
+1.  Compile a list of comorbidities that are most important to consider when studying MS and look at how these comorbidities relate to MS outcomes such as disability.
+2.  Test how previous well-known summary measures of comorbidities (like the CCI) predict MS outcomes.
+3.  Create an MS-specific comorbidity measure, MSCSI, using data from British Columbia. 4. Test the applicability of this comorbidity measure, MSCSI, outside of British Columbia, using data from Manitoba and Sweden.
+
+::: {.callout-note}
+## Summary
+
+- Comorbidities are co-existing health conditions. It is important to identify comorbidities and understand their impact on multiple sclerosis (MS). 
+- Dr. Ehsan Karim and team aim to develop a MS-specific comorbidity summary index (MSCSI), a summary measure that is specific for MS, and test its applicability in people with MS in Canada and internationally.
+- Knowledge generated from this research will be important in determining risk factors and improving care in MS. 
+:::
+
+## Potential Impact {-}
+
+The findings of this research have the potential to guide the identification of risk factors for MS and ultimately, improve clinical care for people living with MS.
+
+
+::: {.callout-tip}
+## Funding
+
+The project is funded by [MS Canada](https://mscanada.ca/). See associated details [here](https://mscanada.ca/ms-research/our-research-program/research-studies-we-fund/development-and-validation-of-an-ms).
+:::

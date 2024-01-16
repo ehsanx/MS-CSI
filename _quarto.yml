@@ -1,0 +1,53 @@
+project:
+  type: book
+  output-dir: docs
+execute:
+  freeze: auto
+book:
+  title: "Development and Validation of an MS-specific Comorbidity Summary Index (MSCSI)"
+  author: 
+  - name: M. Ehsan. Karim
+    affiliation: School of Population and Public Health, The University of British Columbia
+  reader-mode: true
+  search: true
+  page-navigation: true
+  twitter-card: true
+  sidebar:
+    style: docked
+    background: light
+  date: today
+
+  chapters:
+    - index.qmd
+    - expert.qmd
+    - clinician.qmd
+    
+   
+        
+highlight-style: pygments
+
+format:
+  html:
+    toc: true
+    theme: cosmo
+    df-print: paged
+    code-fold: false
+    code-overflow: wrap
+    code-copy: hover
+    code-line-numbers: true
+    code-link: true
+    code-summary: "Show the code"
+    code-tools: 
+      source: false
+      toggle: true
+      caption: none
+prefer-html: true
+
+knitr:
+  opts_chunk: 
+    collapse: true
+    comment: "#>" 
+    R.options:
+      knitr.graphics.auto_pdf: true
+
+editor: visual
