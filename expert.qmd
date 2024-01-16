@@ -36,4 +36,8 @@ This research aims to create a tool to better understand and manage comorbiditie
 
 Reach out to us at [ehsan.karim\@ubc.ca](mailto:ehsan.karim@ubc.ca) for more details or to schedule your interview. Your story can make a profound impact!
 
+::: {.callout-tip}
+## Invitation for printing
+
 [PDF version](pdf/Advertisement for Experts with Lived MS Experience.pdf)
+:::

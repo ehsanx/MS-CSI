@@ -8,6 +8,7 @@ book:
   author: 
   - name: M. Ehsan. Karim
     affiliation: School of Population and Public Health, The University of British Columbia
+  - name: MSCSI team  
   reader-mode: true
   search: true
   page-navigation: true
